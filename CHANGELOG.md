@@ -1,3 +1,7 @@
+## 0.8.6
+
+* Upgraded to mongodb 3.0.8
+
 ## 0.8.5
 
 * Added support for setting authentication database via the `authSource` string.
